@@ -1,0 +1,28 @@
+# Contact Info
+headerContactAddressText=Wellington Business Marol, Andheri East, Mumbai-400059
+headerContactAddressLink=https://goo.gl/maps/example
+headerContactAddressIcon=fa-solid fa-location-dot
+
+headerContactEmailText=support@maxearth.in
+headerContactEmailLink=mailto:support@maxearth.in
+headerContactEmailIcon=fa-solid fa-envelope
+
+headerContactPhoneText=+91 9664233822
+headerContactPhoneLink=tel:+919664233822
+headerContactPhoneIcon=fa-solid fa-phone-volume
+
+# Social Links
+headerSocialFacebookLink=https://facebook.com/yourpage
+headerSocialFacebookIcon=fa-brands fa-facebook
+
+headerSocialTwitterLink=https://twitter.com/yourprofile
+headerSocialTwitterIcon=fa-brands fa-x-twitter
+
+headerSocialInstagramLink=https://instagram.com/yourprofile
+headerSocialInstagramIcon=fa-brands fa-instagram
+
+headerSocialLinkedInLink=https://linkedin.com/in/yourprofile
+headerSocialLinkedInIcon=fa-brands fa-linkedin
+
+# Follow label
+headerFollowUsLabel=Follow Us:

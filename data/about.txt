@@ -1,0 +1,26 @@
+image=/img/about/01.jpg
+imageAlt=About Our Company
+experienceYears=30
+experienceText=Quality Service
+experienceIcon=flaticon-crane-truck
+tagline=About Us
+headingBefore=We at Max Earth Resources Limited attempts to live to the
+headingHighlight=Dreams
+headingAfter=We See.
+description=Max Earth Resources Limited is a leading mining company in India, specializing in minor and major minerals like Black Strap Metal and Manganese. With operations across Jharkhand, Maharashtra, Odisha, and Kerala, we are committed to innovation, sustainability, and industrial growth.
+description2=The Group has strong Inspiration to Contribute to the Nation’s economy through its contributions in the Minor and Major Mineral Mining, Processing, Blending, Marketing and Sales in India and abroad.  It comes to the Group as Intrinsic Traits, and therefore, we can humbly notify that as an Institutional Minor, we are the largest Black Strap Minor and Manufacturer of Black Strap Metal in the State of Jharkhand, with an annual Production surpassing 2 Lakhs Ton.
+feature1.icon=flaticon-refinery
+feature1.title=Highly Rated & Esteemed
+feature1.text=Consistently rated among India’s most trusted mining enterprises.
+feature2.icon=flaticon-presentation
+feature2.title=Full Customer Satisfaction
+feature2.text=100% client satisfaction since inception.
+point1.text=At vero eos et accusamus et iusto odio.
+point1.icon=fa-solid fa-circle-check
+point2.text=Established fact that a reader will be distracted.
+point2.icon=fa-solid fa-circle-check
+point3.text=Sed ut perspiciatis unde omnis iste natus sit.
+point3.icon=fa-solid fa-circle-check
+cta.text=Discover More
+cta.link=/aboutUs/about
+
