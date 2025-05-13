@@ -1,3 +1,0 @@
-# Video Section Data
-background=/img/video/01.png
-videoUrl=https://www.youtube.com/watch?v=Dyv6bTHjV0U

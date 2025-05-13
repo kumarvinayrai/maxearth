@@ -1,6 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+const isProd = process.env.NODE_ENV === 'production'
+
 export default defineNuxtConfig({
-  components: true, 
+  components: true,
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
 
@@ -12,7 +14,7 @@ export default defineNuxtConfig({
   ],
 
   app: {
-    baseURL: '/maxearth/',  // Replace with your GitHub repo name
+    baseURL: isProd ? '/maxearth/' : '/', // Use /maxearth/ only in production
     head: {
       script: [
         {
@@ -24,6 +26,6 @@ export default defineNuxtConfig({
   },
 
   nitro: {
-    preset: 'github_pages'
+    preset: isProd ? 'github_pages' : undefined
   }
 })

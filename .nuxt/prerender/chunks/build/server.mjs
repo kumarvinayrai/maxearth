@@ -430,7 +430,7 @@ const _routes = [
   {
     name: "aboutUs-section",
     path: "/aboutUs/:section()",
-    component: () => import('./_section_-CIiWwUgZ.mjs')
+    component: () => import('./_section_-Bt5nVuSX.mjs')
   },
   {
     name: "adminPanel-section",

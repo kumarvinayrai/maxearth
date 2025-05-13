@@ -129,11 +129,23 @@ onMounted(async () => {
 </script>
 
 <style scoped>
-.team-social {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  gap: 10px;
+.team-social a{
+display: block;
+    color: var(--color-white);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    background: var(--theme-color);
+    box-shadow: var(--box-shadow);
 } 
+.team-social {
+    position: absolute;
+    margin-bottom: 10px; 
+    top: -15rem;
+    left: 1.5rem;
+    bottom: 0;
+    opacity: 0;
+    transition: var(--transition);
+}
 </style>
