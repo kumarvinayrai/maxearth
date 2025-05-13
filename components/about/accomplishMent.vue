@@ -1,0 +1,77 @@
+<template>
+    <section class=" p-5">
+        <div class="container">
+                <div class="row pb-5">
+                    <div class="col-lg-12">
+                        <div class="">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline">Awards & Recognition</span>
+                                <h2 class="site-title">
+                                    Achievements and <span>Reflecting Growth </span>Innovation
+                                </h2>
+                            </div>
+                            <p class="">
+                                Max Earth Resources has earned the trust of leading private coal and metal mining companies across India. As pioneers in underground mine development—spanning both coal and metal sectors—we deliver exceptional service quality, enabling us to expand our horizons through collaboration with global industry experts.
+                            </p>
+                            
+                            <p class="">
+                                Our commitment to innovation is reflected in ongoing R&D initiatives, particularly focused on the efficient utilization of tailing materials left after copper extraction. We are also in the process of establishing Waste Metal Recovery Plants to recover valuable metals often left behind by conventional underground mining methods.
+                            </p>
+                            <div class="about-list-wrapper">
+                                <ul class="about-list list-unstyled">
+                                    <li>
+                                        <i class="fa-solid fa-circle-check me-2 txt-warning"></i>Fastest Growing Company in India.
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-circle-check me-2 txt-warning"></i>Certified for the preparation of Geological Reports in Coal.
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-circle-check me-2 txt-warning"></i>Recognized by the Ministry of Mines in 2025.
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-md-6 col-lg-3">
+                        <div>
+                            <div class="team-img">
+                                <img src="/img/accomplish/card-01.png" alt="thumb">
+                            </div>
+                              
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div>
+                            <div class="team-img">
+                                <img src="/img/accomplish/card-02.png" alt="thumb">
+                            </div>
+                              
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div>
+                            <div class="team-img">
+                                <img src="/img/accomplish/card-03.png" alt="thumb">
+                            </div>
+                              
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div>
+                            <div class="team-img">
+                                <img src="/img/accomplish/card-04.png" alt="thumb">
+                            </div>
+                              
+                        </div>
+                    </div>
+                </div> 
+            </div>
+    </section>
+</template>
+<script setup>
+</script>
+<style scoped>
+</style>
