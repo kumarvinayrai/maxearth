@@ -1,0 +1,50 @@
+[slide]
+image=/img/slider/slider-1.png
+subtitle=Welcome To Max Earth Resources!
+title=Leading India’s
+headingHighlight= Mineral Revolution
+headingAfter=with Sustainable Mining.
+description=Max Earth Resources – Powering industries with ethically sourced major & minor minerals since 2005. Bridging resources and industry with sustainable practices.
+buttonLink=#
+secondaryButtonLink=#
+
+[slide]
+image=/img/slider/slider-2.jpg
+subtitle=Welcome To Max Earth Resources!
+title=Jharkhand’s
+headingHighlight= Largest Black
+headingAfter=Strap Metal Producer | 2 Lakh+ Tons Annually.
+description=Supporting India’s industrial expansion with large-scale mineral production from strategically located mining operations.
+buttonLink=#
+secondaryButtonLink=#
+
+[slide]
+image=/img/slider/slider-3.png
+subtitle=Welcome To Max Earth Resources!
+title=Unlocking India’s
+headingHighlight= Premium Manganese
+headingAfter=Reserve | Botejhari Block, MP.
+description=Our flagship Botejhari manganese operation (G-3 license, 6.094 Ha) delivers exceptional 34%+ grade ore – a strategic national asset powering critical industries.
+buttonLink=#
+secondaryButtonLink=#
+
+[slide]
+image=/img/slider/slider-4.png
+subtitle=Welcome To Max Earth Resources!
+title=Mining with
+headingHighlight= Responsibility
+headingAfter=| Eco-Friendly Practices & Community Growth.
+description=At Max Earth, we mine for tomorrow – transforming resources while protecting communities and ecosystems.
+buttonLink=#
+secondaryButtonLink=#
+
+[slide]
+image=/img/slider/slider-5.png
+subtitle=Welcome To Max Earth Resources!
+title=Partner with India’s
+headingHighlight= Trusted Mineral
+headingAfter= Solutions Provider for Sustainable Growth.
+description=Join India’s next-generation mineral revolution. Explore investment opportunities or request a quote today!
+buttonLink=#
+secondaryButtonLink=#
+

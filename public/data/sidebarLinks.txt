@@ -1,0 +1,5 @@
+aboutUs=About Us|about,Management Team|managementTeam,Accomplishments|accomplishMent,Director's Desk|directorDesk,Vision & Mission|visionNmission,Advantage Max Earth|maxearthAdvantage;
+verticals=Major Minerals|majorMinerals,Minor Minerals|minorMinerals,Mining Equipment|miningEquipment;
+ourInvestors=Annual Reports|annualReports,Quarterly Results|quarterlyResults,Shareholders Information|shareholdersInfo,Stock Price|stockPrice;
+adminPanel=Update Annual Reports|annualReportsFrm, Update Contact Details|contactdetailsUpdateFrm, Update Latest News|latestNewsupdateFrm, Update Media Announce|mediaAnnounceFrm, Quarter Update|quarterlyUpdatesFrm, Update Share Holders Details|shareholdersDetailsFrm, Update Social Media links|socialMedialinksFrm, Update Stock Price|stockPricepdateFrm;
+

@@ -1,0 +1,25 @@
+section.tagline=Mission & Vision
+section.title=Mission
+section.description=To be a world class Project Development & Construction Company, committed to exceed customers' expectations, maximize value to stakeholders and society at large, through business excellence and innovation.
+section.image=/img/choose/010.png
+
+vision.title=Vision
+vision.description=To be the global benchmark in project development and construction industry for creating value to stakeholders.
+
+whatwedotitle.title=What We Do
+
+whatwedo1.icon=flaticon-foreman
+whatwedo1.title=Supply of aggregates to Roads & Bridges
+whatwedo1.text=Max Earth Resources Limited currently has four operational crushers in the state of Jharkhand. All of these are 200 TPH.
+
+whatwedo2.icon=flaticon-mining-cart-1
+whatwedo2.title=Forthcoming Plans for F.Y.24-25
+whatwedo2.text=In the next financial year, Max Earth Resources Limited plans to set up two 200 TPH crushers in the state of Jharkhand.
+
+whatwedo3.icon=flaticon-mining-cart-1
+whatwedo3.title=Chairman Speech
+whatwedo3.text=I am pleased to address you all at the onset of this journey that we are set to undertake with Max Earth Resources Limited.
+
+whatwedo4.icon=flaticon-mining-cart-1
+whatwedo4.title=Mining
+whatwedo4.text=Max Earth Resources Limited plans to acquire mines across India to supply boulders to its own crushers as well as the other.
