@@ -1,1 +1,0 @@
-{"file":"virtual_public4.mjs","mappings":";AAAuD,MAAe,aAAA,gBAAgB,6BAA6B;","names":[],"sources":["../../../../virtual:public?%2Fimg%2Faccomplish%2Fcard-04.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/img/accomplish/card-04.png\")"],"version":3}

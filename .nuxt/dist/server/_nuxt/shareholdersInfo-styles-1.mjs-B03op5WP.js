@@ -1,0 +1,5 @@
+const shareholdersInfo_vue_vue_type_style_index_0_scoped_243e33db_lang = ".portfolio-sidebar[data-v-243e33db]{background-color:#f8f9fa;border-radius:6px;margin-bottom:30px;padding:20px;transition:box-shadow .3s ease}.portfolio-sidebar-title[data-v-243e33db]{border-bottom:2px solid var(--theme-color,#007bff);font-size:20px;font-weight:600;margin-bottom:15px;padding-bottom:5px}.portfolio-sidebar-content ul[data-v-243e33db]{list-style:none;margin:0 0 15px;padding-left:0}.portfolio-sidebar-content ul li[data-v-243e33db]{border-bottom:1px solid #eaeaea;display:flex;font-size:15px;justify-content:space-between;padding:8px 0}.portfolio-sidebar-content ul li span[data-v-243e33db]{color:#333;font-weight:500}";
+export {
+  shareholdersInfo_vue_vue_type_style_index_0_scoped_243e33db_lang as default
+};
+//# sourceMappingURL=shareholdersInfo-styles-1.mjs-B03op5WP.js.map

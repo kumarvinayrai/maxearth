@@ -1,0 +1,25 @@
+safetyPolicy.image=/img/safetyPolicy/01.jpg
+safetyPolicy.imageAlt=Our Safety Policy
+safetyPolicy.tagline=Max Earth Resources Limited
+safetyPolicy.highlightHeadingBefore=Quality
+safetyPolicy.headingBefore=and
+safetyPolicy.headingHighlight=Safety
+safetyPolicy.headingAfter=Policy
+safetyPolicy.description=At Max Earth Resources Limited, we are steadfast in our commitment to delivering the highest standards of quality and safety across all our mining operations.
+
+safetyPolicy.point1.text=We take the Quality of our Work as well as Systems seriously.
+safetyPolicy.point1.icon=fa-solid fa-circle-check
+safetyPolicy.point2.text=All site activities are checked for quality workmanship against internal and customers specified benchmarks.
+safetyPolicy.point2.icon=fa-solid fa-circle-check
+safetyPolicy.point3.text=Industry Safety standards are inculcated and used by our employees at all locations.
+safetyPolicy.point3.icon=fa-solid fa-circle-check
+safetyPolicy.point4.text=Internal Safety Training is carried out at the local level.
+safetyPolicy.point4.icon=fa-solid fa-circle-check
+safetyPolicy.point5.text=Use of Safety Tools, Apparels & Kits is encouraged and provided to all personnel.
+safetyPolicy.point5.icon=fa-solid fa-circle-check
+safetyPolicy.point6.text=Extra precaution is undertaken at hazardous locations under the supervision of the Site Engineer.
+safetyPolicy.point6.icon=fa-solid fa-circle-check
+safetyPolicy.point7.text=We adhere to strict industry safety standards and protocols across all project sites and offices.
+safetyPolicy.point7.icon=fa-solid fa-circle-check
+safetyPolicy.point8.text=Comprehensive safety training is conducted regularly to ensure all employees are well-equipped to manage risks.
+safetyPolicy.point8.icon=fa-solid fa-circle-check

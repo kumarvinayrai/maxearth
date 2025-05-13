@@ -1,9 +1,9 @@
 {
-  "_hash": "D7Gi_xEy8vwVbdC8VAOutZF6xuTWRTHSXkoFI8s2VxI",
+  "_hash": "Jc4mUECOBMrHIrjE6sRYBZ0cmii-M158NCRDuUS3hQw",
   "project": {
-    "rootDir": "C:/Users/vinay/Downloads/maxearth"
+    "rootDir": "D:/Project_1205/maxearth"
   },
   "versions": {
-    "nuxt": "3.16.2"
+    "nuxt": "3.17.3"
   }
 }

@@ -1,0 +1,5 @@
+# partner logos
+src=/img/partner/01.png;alt=Partner 1
+src=/img/partner/02.png;alt=Partner 2
+src=/img/partner/03.png;alt=Partner 3
+src=/img/partner/04.png;alt=Partner 4

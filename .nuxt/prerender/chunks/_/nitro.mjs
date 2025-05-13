@@ -606,8 +606,8 @@ function _expandFromEnv(value) {
 
 const _inlineRuntimeConfig = {
   "app": {
-    "baseURL": "/",
-    "buildId": "a9b5d5ad-51ba-43ed-8431-61dab66f87c2",
+    "baseURL": "/maxearth/",
+    "buildId": "6c1c263d-5748-467f-be52-168894f42e37",
     "buildAssetsDir": "/_nuxt/",
     "cdnURL": ""
   },
@@ -794,7 +794,7 @@ function hasReqHeader(event, name, includes) {
 }
 
 const errorHandler$0 = (async function errorhandler(error, event, { defaultHandler }) {
-  if (isJsonRequest(event)) {
+  if (event.handled || isJsonRequest(event)) {
     return;
   }
   const defaultRes = await defaultHandler(error, event, { json: true });
@@ -806,9 +806,10 @@ const errorHandler$0 = (async function errorhandler(error, event, { defaultHandl
   }
   const errorObject = defaultRes.body;
   const url = new URL(errorObject.url);
-  errorObject.url = url.pathname + url.search + url.hash;
+  errorObject.url = withoutBase(url.pathname, useRuntimeConfig(event).app.baseURL) + url.search + url.hash;
   errorObject.message ||= "Server Error";
   errorObject.data ||= error.data;
+  errorObject.statusMessage ||= error.statusMessage;
   delete defaultRes.headers["content-type"];
   delete defaultRes.headers["content-security-policy"];
   setResponseHeaders(event, defaultRes.headers);
@@ -855,7 +856,7 @@ function defaultHandler(error, event, opts) {
   const statusMessage = error.statusMessage || "Server Error";
   const url = getRequestURL(event, { xForwardedHost: true, xForwardedProto: true });
   if (statusCode === 404) {
-    const baseURL = "/";
+    const baseURL = "/maxearth/";
     if (/^\/[^/]/.test(baseURL) && !url.pathname.startsWith(baseURL)) {
       const redirectTo = `${baseURL}${url.pathname.slice(1)}${url.search}`;
       return {
@@ -979,10 +980,7 @@ const _FMAEKD = eventHandler((event) => {
   if (!asset) {
     if (isPublicAssetURL(id)) {
       removeResponseHeader(event, "Cache-Control");
-      throw createError({
-        statusMessage: "Cannot find static asset " + id,
-        statusCode: 404
-      });
+      throw createError({ statusCode: 404 });
     }
     return;
   }
@@ -1015,10 +1013,13 @@ const _FMAEKD = eventHandler((event) => {
   return readAsset(id);
 });
 
+const _SxA8c9 = defineEventHandler(() => {});
+
 const _lazy_yL9mHd = () => import('./renderer.mjs').then(function (n) { return n.r; });
 
 const handlers = [
   { route: '', handler: _FMAEKD, lazy: false, middleware: true, method: undefined },
+  { route: '/__nuxt_island/**', handler: _SxA8c9, lazy: false, middleware: false, method: undefined },
   { route: '/**', handler: _lazy_yL9mHd, lazy: true, middleware: false, method: undefined }
 ];
 
@@ -1050,6 +1051,8 @@ function createNitroApp() {
       const fetchContext = event.node.req?.__unenv__;
       if (fetchContext?._platform) {
         event.context = {
+          _platform: fetchContext?._platform,
+          // #3335
           ...fetchContext._platform,
           ...event.context
         };

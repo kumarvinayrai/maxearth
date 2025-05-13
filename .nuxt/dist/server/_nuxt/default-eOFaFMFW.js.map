@@ -1,0 +1,1 @@
+{"version":3,"file":"default-eOFaFMFW.js","sources":["../../../../layouts/default.vue"],"sourcesContent":["<template>\r\n  <div>\r\n    <NuxtPage />\r\n  </div>\r\n</template>\r\n"],"names":["_ssrRenderAttrs","_ssrRenderComponent"],"mappings":";;;;;;;;;;;;;;;AAAA,QAAA,OAAAA,eAAA,MAAA,CAAA,GAAA;AAAA,QAAAC,mBAAA,qBAAA,MAAA,MAAA,OAAA,CAAA;AAAA,QAAA,QAAA;;;;;;;;;"}

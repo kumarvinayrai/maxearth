@@ -1,0 +1,4 @@
+const myIIInvestors_vue_vue_type_style_index_0_scoped_90108045_lang = ".min-height[data-v-90108045]{min-height:61rem}";
+
+export { myIIInvestors_vue_vue_type_style_index_0_scoped_90108045_lang as m };
+//# sourceMappingURL=myIIInvestors-styles-1.mjs-4Wp1HoGw.mjs.map

@@ -1,6 +1,0 @@
-const annualReports_vue_vue_type_style_index_0_scoped_793c5510_lang = ".portfolio-sidebar[data-v-793c5510]{background-color:#f8f9fa;border-radius:6px;margin-bottom:30px;padding:20px}.portfolio-sidebar-title[data-v-793c5510]{border-bottom:2px solid var(--theme-color);font-size:20px;font-weight:600;margin-bottom:20px;padding-bottom:5px}.portfolio-sidebar-content ul[data-v-793c5510]{list-style:none;margin:0;padding-left:0}.portfolio-sidebar-content ul li[data-v-793c5510]{border-bottom:1px solid #eaeaea;display:flex;font-size:15px;justify-content:space-between;padding:8px 0}.portfolio-sidebar-content ul li span[data-v-793c5510]{color:#333;font-weight:500}.download-btn[data-v-793c5510]{margin-top:10px}";
-
-const annualReportsStyles_DHBnJyyN = [annualReports_vue_vue_type_style_index_0_scoped_793c5510_lang];
-
-export { annualReportsStyles_DHBnJyyN as default };
-//# sourceMappingURL=annualReports-styles.DHBnJyyN.mjs.map

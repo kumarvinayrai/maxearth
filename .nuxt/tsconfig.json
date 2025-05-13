@@ -102,7 +102,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/a9b5d5ad-51ba-43ed-8431-61dab66f87c2.json"
+        "./manifest/meta/6c1c263d-5748-467f-be52-168894f42e37.json"
       ],
       "#components": [
         "./components"
@@ -126,7 +126,7 @@
     "noUncheckedIndexedAccess": false,
     "forceConsistentCasingInFileNames": true,
     "noImplicitOverride": true,
-    "module": "ESNext",
+    "module": "preserve",
     "noEmit": true,
     "lib": [
       "ESNext",
@@ -143,9 +143,9 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "./nuxt.d.ts",
-    "../.config/nuxt.*",
     "../**/*",
+    "../.config/nuxt.*",
+    "./nuxt.d.ts",
     "../node_modules/@nuxt/devtools/runtime",
     "../node_modules/@nuxt/devtools/dist/runtime",
     "../node_modules/@nuxt/telemetry/runtime",
@@ -154,6 +154,7 @@
   ],
   "exclude": [
     "../dist",
+    "../.data",
     "../node_modules",
     "../node_modules/nuxt/node_modules",
     "../node_modules/@nuxt/devtools/node_modules",
