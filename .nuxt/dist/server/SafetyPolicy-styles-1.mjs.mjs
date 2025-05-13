@@ -1,0 +1,5 @@
+const SafetyPolicy_vue_vue_type_style_index_0_scoped_05e0f347_lang = '.safety-policy-left[data-v-05e0f347]{position:relative;z-index:1}.safety-policy-left[data-v-05e0f347]:before{bottom:-20px;clip-path:polygon(0 0,0 100%,100% 100%);left:-20px}.safety-policy-left[data-v-05e0f347]:after,.safety-policy-left[data-v-05e0f347]:before{background:var(--theme-color);content:"";height:250px;position:absolute;width:250px;z-index:-1}.safety-policy-left[data-v-05e0f347]:after{clip-path:polygon(100% 0,0 0,100% 100%);right:-20px;top:-20px}.safety-policy-left img[data-v-05e0f347]{width:100%}.safety-policy-right[data-v-05e0f347]{display:block;padding-left:30px;position:relative}.safety-policy-right[data-v-05e0f347]:before{border-right:5px solid var(--theme-color);content:"";height:92%;left:0;position:absolute;top:8px;width:25px;z-index:-1}.safety-policy-list li[data-v-05e0f347]{margin-top:10px;padding-left:1.5rem;position:relative}@media (max-width:991px){.safety-policy-right[data-v-05e0f347]{margin-top:70px}}';
+export {
+  SafetyPolicy_vue_vue_type_style_index_0_scoped_05e0f347_lang as default
+};
+//# sourceMappingURL=SafetyPolicy-styles-1.mjs.mjs.map

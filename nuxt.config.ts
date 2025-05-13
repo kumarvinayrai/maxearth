@@ -1,10 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   components: true,
+  ssr: true, // optional — for static site generation
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   css: ['bootstrap/dist/css/bootstrap.min.css','./src/assets/styles/style.css','@fortawesome/fontawesome-free/css/all.min.css','./src/assets/styles/flaticon.css'],
   app: {
+    baseURL: '/maxearth/',
     head: {
       script: [
         {

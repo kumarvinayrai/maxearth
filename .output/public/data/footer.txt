@@ -1,0 +1,37 @@
+logoSrc=/img/logo/logo-light.png
+logoAlt=MaxEarth Logo
+description=
+#We are many variations of passages available but the majority have suffered alteration in some form by injected humour words believable.
+phone=+91 9664233822
+email=info@maxearth.com
+address=103/104 Wellington Business Park-1 Marol, Andheri East, Mumbai-400059.
+
+section1Title=Quick Links
+section1Link1Text=About Us
+section1Link1Href=/aboutUs/about
+section1Link2Text=Verticals
+section1Link2Href=/VerticalArea/Verticals
+section1Link3Text=Projects
+section1Link3Href=/Projects 
+
+section2Title=Our Services
+section2Link1Text=Investors 
+section2Link1Href=/ourInvestors/Investors/
+section2Link2Text=latestNews
+section2Link2Href=/latestNews
+section2Link3Text=Contact Us
+section2Link3Href=/ContactUs 
+
+newsletterTitle=Join Our Newsletter
+newsletterDescription=Stay updated with our latest news and offers.
+
+social1Icon=fa-brands fa-facebook-f
+social1Href=https://facebook.com
+social2Icon=fa-brands fa-twitter
+social2Href=https://twitter.com
+social3Icon=fa-brands fa-youtube
+social3Href=https://www.youtube.com/
+social4Icon=fa-brands fa-linkedin
+social4Href=https://www.linkedin.com/
+
+copyright= Max Earth Resources Ltd. All Rights Reserved..

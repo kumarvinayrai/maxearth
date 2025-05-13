@@ -1,0 +1,5 @@
+navbarLogoSrc=/img/logo/logo.png
+navbarLogoAlt=MaxEarth Logo
+navbarOffcanvasTitle=Menu
+navbarLinks=Home|/,About Us|/aboutUs/about,Verticals|/VerticalArea/Verticals,Projects|/Projects,Investors|/ourInvestors/Investors/,News|/latestNews,Contact Us|/ContactUs,Administration|/login
+
